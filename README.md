@@ -23,6 +23,12 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![Troféus](https://github-profile-trophy.vercel.app/?username=bentojunior92&theme=radical&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📫 Fale comigo
 
 - ✉️ mnbentojunior@gmail.com
