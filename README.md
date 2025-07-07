@@ -27,7 +27,8 @@
 
 ---
 
-## 🐍 Jogo da Cobrinha
+
+### 🐍 Jogo da Cobrinha
 
 <p align="center">
   <img src="https://github.com/Bentojunior92/Bentojunior92/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
