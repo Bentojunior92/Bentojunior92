@@ -18,10 +18,7 @@
 
 ---
 
-### 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=seu-usuario&theme=radical)](https://git.io/streak-stats)
-
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 ---
 
 
