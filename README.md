@@ -28,11 +28,12 @@
 ---
 
 
-### 🐍 Jogo da Cobrinha
+### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bentojunior92/Bentojunior92/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
 
 ---
 
