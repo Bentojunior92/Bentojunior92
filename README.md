@@ -33,5 +33,5 @@
 
 ---
 
-<p align="center">Feito com 💙 por Bento Junior</p>
+
 
