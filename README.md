@@ -23,9 +23,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![Troféus](https://github-profile-trophy.vercel.app/?username=bentojunior92&theme=radical&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bentojunior92&layout=compact&theme=radical)
 
 ---
 
