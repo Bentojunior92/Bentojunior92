@@ -18,12 +18,9 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Streak
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bentojunior92&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bentojunior92&layout=compact&theme=github_dark" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=seu-usuario&theme=radical)](https://git.io/streak-stats)
 
 ---
 
