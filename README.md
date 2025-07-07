@@ -23,7 +23,7 @@
 
 ---
 
-🔗 https://skyline.github.com/bentojunior92/2024
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=bentojunior92&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
