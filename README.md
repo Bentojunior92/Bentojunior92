@@ -23,7 +23,7 @@
 
 ---
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bentojunior92&layout=compact&theme=radical)
+🔗 https://skyline.github.com/bentojunior92/2025  
 
 ---
 
